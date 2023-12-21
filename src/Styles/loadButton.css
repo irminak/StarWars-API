@@ -1,0 +1,19 @@
+button {
+    min-height: 50px;
+    min-width: 260px;
+    padding: 20px 50px;
+    background-color: #264568;
+    border: 3px white solid;
+    border-radius: 10px;
+    color: white;
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 300;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: transparent;
+}
