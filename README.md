@@ -4,6 +4,10 @@
 
 Explore information about Star Wars characters using the Star Wars API (SWAPI).
 
+## Screenshots
+
+![Homepage](https://ibb.co/2qw84H8)
+
 ## Overview
 
 This project allows users to retrieve details about Star Wars characters from the SWAPI. Users can search for characters, view their details, and discover interesting information about the Star Wars universe.
