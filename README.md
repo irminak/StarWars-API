@@ -6,7 +6,7 @@ Explore information about Star Wars characters using the Star Wars API (SWAPI).
 
 ## Screenshots
 
-![Homepage](https://ibb.co/2qw84H8)
+![Homepage](https://i.imgur.com/l04IbQc.png)
 
 ## Overview
 
