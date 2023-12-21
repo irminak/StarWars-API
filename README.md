@@ -1,5 +1,20 @@
 # Getting Started with Create React App
 
+# Star Wars API Explorer
+
+Explore information about Star Wars characters using the Star Wars API (SWAPI).
+
+## Overview
+
+This project allows users to retrieve details about Star Wars characters from the SWAPI. Users can search for characters, view their details, and discover interesting information about the Star Wars universe.
+
+## Features
+
+-   Search for Star Wars characters.
+-   View detailed information about each character.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
